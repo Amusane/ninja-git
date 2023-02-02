@@ -1,0 +1,1 @@
+https://stackoverflow.com/questions/48610964/access-a-model-method-by-laravel-ajax
